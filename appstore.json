@@ -1,0 +1,12 @@
+{
+  "repositories":[
+    {
+      "name": "redhat-kontinuity/basic-jenkinsfile",
+      "display-name": "Basic Jenkinsfile"
+    },
+    {
+      "name": "jboss-developer/jboss-eap-quickstarts",
+      "display-name": "JBoss EAP Quickstart"
+    }
+  ]
+}
