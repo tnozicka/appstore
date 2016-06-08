@@ -7,6 +7,10 @@
     {
       "name": "jboss-developer/jboss-eap-quickstarts",
       "display-name": "JBoss EAP Quickstart"
+    },
+    {
+      "name": "redhat-kontinuity/pipelineproject",
+      "display-name": "Kitchensink HTML5 Mobile Quickstart"
     }
   ]
 }
