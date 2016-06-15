@@ -1,16 +1,9 @@
 {
   "repositories":[
     {
-      "name": "redhat-kontinuity/basic-jenkinsfile",
-      "display-name": "Basic Jenkinsfile"
-    },
-    {
-      "name": "jboss-developer/jboss-eap-quickstarts",
-      "display-name": "JBoss EAP Quickstart"
-    },
-    {
       "name": "redhat-kontinuity/kitchensink-html5-mobile",
-      "display-name": "Kitchensink HTML5 Mobile Quickstart"
+      "display-name": "Kitchensink HTML5 Mobile Quickstart",
+      "openshift-template-file": "pipelinetemplate.json"
     }
   ]
 }
