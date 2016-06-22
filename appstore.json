@@ -1,9 +1,10 @@
 {
   "repositories":[
     {
-      "name": "redhat-kontinuity/kitchensink-html5-mobile",
-      "display-name": "Kitchensink HTML5 Mobile Quickstart",
-      "openshift-template-file": "pipelinetemplate.json"
+      "name": "tnozicka/jboss-eap-quickstarts",
+      "displayName": "JBoss EAP7 HelloWorld Example",
+      "gitRef": "sync-WIP",
+      "pipelineTemplatePath": "helloworld/.openshift-ci_cd/pipeline-template.yaml"
     }
   ]
 }
