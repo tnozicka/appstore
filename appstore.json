@@ -1,10 +1,16 @@
 {
   "repositories":[
     {
-      "name": "tnozicka/jboss-eap-quickstarts",
+      "name": "redhat-kontinuity/jboss-eap-quickstarts",
       "displayName": "JBoss EAP7 HelloWorld Example",
-      "gitRef": "sync-WIP",
+      "gitRef": "kontinu8",
       "pipelineTemplatePath": "helloworld/.openshift-ci_cd/pipeline-template.yaml"
+    },
+    {
+      "name": "tnozicka/kitchensink-html5-mobile",
+      "displayName": "Kitchensink HTML5 Mobile App",
+      "gitRef": "kontinu8",
+      "pipelineTemplatePath": ".openshift-ci_cd/pipeline-template.yaml"
     }
   ]
 }
