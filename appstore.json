@@ -11,6 +11,12 @@
       "displayName": "Kitchensink HTML5 Mobile App",
       "gitRef": "kontinu8",
       "pipelineTemplatePath": ".openshift-ci_cd/pipeline-template.yaml"
+    },
+    {
+      "name": "redhat-kontinuity/nodejs-ex",
+      "displayName": "Node.js sample app",
+      "gitRef": "kontinu8",
+      "pipelineTemplatePath": ".openshift-ci_cd/pipeline-template.yaml"
     }
   ]
 }
