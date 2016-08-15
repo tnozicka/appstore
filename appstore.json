@@ -1,22 +1,22 @@
 {
   "repositories":[
     {
-      "name": "redhat-kontinuity/jboss-eap-quickstarts",
+      "name": "tnozicka/jboss-eap-quickstarts",
       "displayName": "JBoss EAP7 HelloWorld Example",
       "gitRef": "kontinu8",
-      "pipelineTemplatePath": "helloworld/.openshift-ci_cd/pipeline-template.yaml"
+      "pipelineTemplatePath": "helloworld/.openshift-pipeline/pipeline-template.yaml"
     },
     {
       "name": "tnozicka/kitchensink-html5-mobile",
       "displayName": "Kitchensink HTML5 Mobile App",
       "gitRef": "kontinu8",
-      "pipelineTemplatePath": ".openshift-ci_cd/pipeline-template.yaml"
+      "pipelineTemplatePath": ".openshift-pipeline/pipeline-template.yaml"
     },
     {
-      "name": "redhat-kontinuity/nodejs-ex",
+      "name": "tnozicka/nodejs-ex",
       "displayName": "Node.js sample app",
       "gitRef": "kontinu8",
-      "pipelineTemplatePath": ".openshift-ci_cd/pipeline-template.yaml"
+      "pipelineTemplatePath": ".openshift-pipeline/pipeline-template.yaml"
     }
   ]
 }
